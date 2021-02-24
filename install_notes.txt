@@ -1,0 +1,1 @@
+Follow the instructions for installing the Python library on the Coral Environmental Sensor Board official page (https://coral.ai/docs/enviro-board/get-started/#2-install-the-python-library).
