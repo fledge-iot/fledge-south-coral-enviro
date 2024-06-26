@@ -78,7 +78,7 @@ _enviro = None
 def plugin_info():
     return {
         'name': 'Coral Environmental Sensor Board',
-        'version': '2.4.0',
+        'version': '2.5.0',
         'mode': 'poll',
         'type': 'south',
         'interface': '1.0',
